@@ -1,0 +1,9 @@
+try:
+    a = int(input("enter first number:"))
+    b = int(input("enter second number:"))
+    result = a / b
+    print("answer:", result)
+except ZeroDivisionError:
+    print("cannot divide by zero!")
+except ValueError:
+    print("enter only numbers")

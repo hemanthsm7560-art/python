@@ -1,0 +1,5 @@
+file = open("student.txt", "r")
+data = file.read()
+file.close()
+print(data)
+file.close()

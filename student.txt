@@ -1,3 +1,3 @@
-Name: hemanth
-Age: 19
-Marks: 99
+name : hemanth
+couse: Data science
+college name:CMR university
